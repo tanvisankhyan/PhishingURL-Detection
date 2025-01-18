@@ -5,7 +5,6 @@ PHISHING URL
 2. Several techniques are employed to clickbait the user, such as Bit squatting, Typo squatting, Mimicking trusted websites, Redirection, Visual Spoofing like Homograph, or homoglyph attacks.
 3. These URLs can store sensitive information, deliver malware, and save IP addresses, browser fingerprints, and device metadata. These URLs are often redirecting users to other links.
 4. Considering the overall increase in cyber threats, we were interested in analyzing the feartures that can spot spam URLs.
-<img width="530" alt="phishingattacks" src="https://github.com/user-attachments/assets/b0bd7032-6868-48eb-9102-419551696a95" />
 
 DATASET
 
@@ -37,9 +36,11 @@ ARCHITECTURE
 
 
 PERFORMANCE OF THE BASE MODELS
+
 <img width="479" alt="Capturje" src="https://github.com/user-attachments/assets/21a92d27-192d-49c5-8b5a-0c217bc3658f" />
 
 PERFORMANCE OF THE MODELS OVER THE YEARS
+
 <img width="315" alt="Capturdfse" src="https://github.com/user-attachments/assets/4d585f25-4e9a-4210-a8b5-fcf7e501bcdf" />
 
 HYPER-PARAMETER TUNING
@@ -54,10 +55,10 @@ New Advance Hyper-parameter tuning algorithm called Optuna was applied and again
 
 
 FEATURE IMPORTANCE
+
 <img width="345" alt="mdi" src="https://github.com/user-attachments/assets/608a082e-0397-4d1e-9b1f-e05edaec039a" />
 
 MOST IMPORTANT FEATURE DETECTED
-
 
 <img width="633" alt="MIF" src="https://github.com/user-attachments/assets/f8fc7054-066c-44be-8847-0ce3f42bb53f" />
 
