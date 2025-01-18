@@ -34,6 +34,8 @@ n.
 
 ARCHITECTURE
 
+              <img width="791" alt="ARC" src="https://github.com/user-attachments/assets/3a7673e6-52db-4ee2-8de6-b7e325ccde61" />
+
 
 PERFORMANCE OF THE BASE MODELS
 
@@ -62,4 +64,5 @@ MOST IMPORTANT FEATURE DETECTED
 
 <img width="633" alt="MIF" src="https://github.com/user-attachments/assets/f8fc7054-066c-44be-8847-0ce3f42bb53f" />
 
+<img width="650" alt="CMIF2" src="https://github.com/user-attachments/assets/f013ff0a-1057-4cb2-87e6-bcb3b115953a" />
 
