@@ -34,7 +34,7 @@ n.
 
 ARCHITECTURE
 
-              <img width="791" alt="ARC" src="https://github.com/user-attachments/assets/3a7673e6-52db-4ee2-8de6-b7e325ccde61" />
+<img width="791" alt="ARC" src="https://github.com/user-attachments/assets/3a7673e6-52db-4ee2-8de6-b7e325ccde61" />
 
 
 PERFORMANCE OF THE BASE MODELS
