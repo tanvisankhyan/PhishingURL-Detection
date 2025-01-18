@@ -70,9 +70,12 @@ MOST IMPORTANT FEATURE DETECTED
 Reference
 
 [1] A. Prasad and S. Chandra. "PhiUSIIL Phishing URL (Website)," UCI Machine Learning Repository, 2024. [Online]. Available: https://doi.org/10.1016/j.cose.2023.103545.
+
 [2] A. Hannousse and S. Yahiouche, “Towards benchmark datasets for machine learning based website phishing detection: An experimental study,” Engineering Applications of
 ArtificialIntelligence, vol. 104, p. 104347, 2021. [Online]. Available:https://www.sciencedirect.com/science/article/pii/S0952197621001950
+
 [3]https://phishtank.org/
+
 [4] H. Sudhan, “Phishing and legitimate urls,” 2023, licensed under CC BY 4.0. [Online]. Available: https://www.kaggle.com/datasets/harisudhan411/phishing-and-legitimate-urls
 
 
