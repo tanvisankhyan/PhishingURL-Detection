@@ -6,7 +6,7 @@ PHISHING URL
 3. These URLs can store sensitive information, deliver malware, and save IP addresses, browser fingerprints, and device metadata. These URLs are often redirecting users to other links.
 4. Considering the overall increase in cyber threats, we were interested in analyzing the feartures that can spot spam URLs.
 
-DATASET
+DATASET- 64 Feature
 
 1. Dataset Sources: The dataset is created by combining 4 dataset taken from different times frame to maintain the variation
 
